@@ -9,4 +9,4 @@ Add two integers. In the style of GNU Hello, this project exists to serve as a m
 3
 ```
 
-There is presently a maximum length of 4300 digits on each integer inputted. There is no restriction on the size of the output. These restrictions may be removed in a later version.
+Arbitrary-precision ("bigint") arithmetic is used. There is no limit on the size of the inputs.
